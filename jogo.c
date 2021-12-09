@@ -176,8 +176,7 @@ void desenharTabuleiro(void){
     }
 }
 
-void imprime_parte(char desenho[5][10], int parte)
-{
+void imprime_parte(char desenho[5][10], int parte){
     printf("%s", desenho[parte]);
 }
 

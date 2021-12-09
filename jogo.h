@@ -11,7 +11,7 @@
 #define VAZIO '#'
 #define XIZ 'x'
 #define BOLA 'o'
-#define true 1// Evitar exportar biblioteca por utilizar apenas un recurso
+#define true 1// Evitar exportar biblioteca por utilizar apenas um recurso
 
 struct posTabela{
     int linha;

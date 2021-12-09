@@ -24,8 +24,8 @@ int perguntarNomes(char jogador1[], char jogador2[]){
         setNomePadrao(jogador2, nome2);
         return 1;
     }else{
-        // Os nomes serao resetados em uma segunda partida
-        // redefinir padrão caso o jogador confirme que não deseja salvar alterações
+        /* Os nomes serao resetados em uma segunda partida
+           redefinir padrão caso o jogador confirme que não deseja salvar alterações*/
         setNomePadrao(jogador1, "Jogador1");
         setNomePadrao(jogador2, "Jogador2");
         
