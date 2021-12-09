@@ -11,13 +11,16 @@ int main(void){
         switch(res){
             case JOGAR:
                 opcao = menuPlayer();//1 - Player1 vs Player2\n2 - Player vs CPU\n0 - voltar\n
-                if(opcao){
+                if(opcao == 1){
                     if(perguntarNomes(jogador1, jogador2)){// Deseja alterar nome dos jogadores(mostrar nomes padrao)
                         puts("\nNomes alterados com sucesso :)\n");
                         getchar();
                         system("cls");
                     }
                     loopDoGame(jogador1, jogador2);
+                    getchar();
+                }else{
+                    printf("\n\tEste modo ainda nao foi implementado :(\n\n??? Estava pensando em utilizar uma arvore estatica com alguma funcao rand()\nE ai? deseja colaborar?! chega ai!");
                     getchar();
                 }
                 break;
