@@ -14,21 +14,21 @@
 
  ## Alguns quadros do Jogo
  ### Menu
-<img src="./imagens/nome-jogadores.png">
-<img src="./imagens/frame-menu.png">
-<img src="./imagens/frame-menu-play.png">
+![imagens de nome-jogadores](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/nome-jogadores.PNG)
+![imagens do frame-menu](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/frame-menu.PNG)
+![imagens do frame menu player](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/frame-menu-play.PNG)
 
 ### Gráficos do jogo
-<img src="./imagens/demo1.png" width="200px" height="220px">
-<img src="./imagens/demo2.png" width="200px" height="220px">
-<img src="./imagens/deu-velha.png" width="200px" height="220px">
-<img src="./imagens/jogador-ganhou.png" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/demo1.PNG" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/demo2.PNG" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/deu-velha.PNG" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/jogador-ganhou.PNG" width="200px" height="220px">
 
-### Implementação da segunda opção
-<img src="./imagens/player-vs-cpu.png">
+### Implementação da segunda opção do menu-player
+![opção player vs cpu](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/player-vs-cpu.PNG)
 
 ### Creditos
-<img src="./imagens/creditos.png">
+![creditos do jogo](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/creditos.PNG)
  
  ## Clone o repo:
  <!--<pre>-->
