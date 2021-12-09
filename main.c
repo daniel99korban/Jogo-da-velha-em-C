@@ -2,7 +2,7 @@
 #include "jogador.h"
 
 int main(void){
-     // Nome padrão para jogador, caso este não insira um nome
+     // Nome padrão para jogador, caso não insira um nome
     char jogador1[] = "Jogador1", jogador2[] = "Jogador2";
     int res, opcao;
 
