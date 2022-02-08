@@ -14,21 +14,21 @@
 
  ## Alguns quadros do Jogo
  ### Menu
-![imagens de nome-jogadores](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/nome-jogadores.PNG)
-![imagens do frame-menu](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/frame-menu.PNG)
-![imagens do frame menu player](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/frame-menu-play.PNG)
+![imagens de nome-jogadores](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/nome-jogadores.PNG)
+![imagens do frame-menu](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/frame-menu.PNG)
+![imagens do frame menu player](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/frame-menu-play.PNG)
 
 ### Gráficos do jogo
-<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/demo1.PNG" width="200px" height="220px">
-<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/demo2.PNG" width="200px" height="220px">
-<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/deu-velha.PNG" width="200px" height="220px">
-<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/jogador-ganhou.PNG" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/demo1.PNG" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/demo2.PNG" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/deu-velha.PNG" width="200px" height="220px">
+<img src="https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/jogador-ganhou.PNG" width="200px" height="220px">
 
 ### Implementação da segunda opção do menu-player
-![opção player vs cpu](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/player-vs-cpu.PNG)
+![opção player vs cpu](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/player-vs-cpu.PNG)
 
 ### Creditos
-![creditos do jogo](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/imagens/creditos.PNG)
+![creditos do jogo](https://github.com/daniel99korban/Jogo-da-velha-em-C/blob/main/img/creditos.PNG)
  
  ## Clone o repo:
  <!--<pre>-->
